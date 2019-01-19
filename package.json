@@ -1,0 +1,30 @@
+{
+  "name": "treehouse-project6",
+  "version": "1.0.0",
+  "description": "packages for treehouse project6",
+  "main": "scraper.js",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "cheerio": "^1.0.0-rc.2",
+    "jsonexport": "^2.1.0",
+    "npm": "^6.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node scraper.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reedkellen/treehouse-project6.git"
+  },
+  "keywords": [
+    "web",
+    "scraper"
+  ],
+  "author": "Kellen Reed",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/reedkellen/treehouse-project6/issues"
+  },
+  "homepage": "https://github.com/reedkellen/treehouse-project6#readme"
+}
